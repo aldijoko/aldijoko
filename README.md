@@ -10,4 +10,4 @@
 
 # CV Aldi Joko
 
-- Live CV URL: [CV Aldi Joko](https://aldijoko.github.io/cvaljok/)
+- Live CV URL: [CV Aldi Joko](https://verdant-kelpie-b5e5bb.netlify.app/)
