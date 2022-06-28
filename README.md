@@ -11,3 +11,5 @@
 # CV Aldi Joko
 
 - Live CV URL: [CV Aldi Joko](https://verdant-kelpie-b5e5bb.netlify.app/)
+
+<a href="https://app.daily.dev/aldijoko"><img src="https://api.daily.dev/devcards/0a576bdd52fe4c4ca8bdd5528881a074.png?r=fe8" width="400" alt="Aldi Joko's Dev Card"/></a>
