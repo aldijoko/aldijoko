@@ -1,6 +1,8 @@
 # 💫About Me :
 - 👋 Hi, I’m @aldijoko
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested and a passionate frontend developer with expertise in SvelteKit and React.js. I have a strong grasp of HTML, CSS, and JavaScript, and I love crafting engaging and user-friendly web experiences.
+- In my frontend journey, I've mastered the art of styling with Tailwind CSS and Bootstrap, creating visually appealing and responsive designs that enhance user interactions. I believe in the power of clean and efficient code to bring ideas to life on the web.
+- Currently, I wear multiple hats as a full-stack developer, delving into the world of ASP.NET Core, SQL Server, and SharePoint. I enjoy the challenge of working on both frontend and backend technologies, ensuring seamless integration and robust functionality.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aldijoko_aljok) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldijokosp) 
